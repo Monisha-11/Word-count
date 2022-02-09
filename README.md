@@ -28,7 +28,7 @@ Print the output.
 ```
 To write a program for getting the word count from a file.
 Developed by : Monisha T
-Registernumber : 212221240029
+Registernumber : 21500314
 
 def wordcount():
   count = 0
